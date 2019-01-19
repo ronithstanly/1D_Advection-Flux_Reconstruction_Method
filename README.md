@@ -1,4 +1,4 @@
-# 1D_Advection_using-Flux_Reconstruction_Method
+# 1D_Advection_using_Flux_Reconstruction_Method
 
 Solves the 1D linear and non-linear advection equation using the Flux Reconstruction Discontinuous Galerkin Method of Huynh(2007).
 
