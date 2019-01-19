@@ -9,3 +9,5 @@ Roe's Riemann solver is employed to compute interface flux.
 Periodic boundary condition.
 Initial conditions include linear case with Gaussian profile, u(x,0)=exp(-20x^2) 
 and non-linear case with sinusoidal profile, u(x,0)=sin (pi x).
+
+Please see the accompanying PDF for more details about the code and its implementation.
