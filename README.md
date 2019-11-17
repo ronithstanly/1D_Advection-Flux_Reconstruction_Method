@@ -14,4 +14,4 @@ Please see the accompanying PDF for more details about the code and its implemen
 
 ***EDIT (17-Nov-2019):*** 
 There was an error in the way the matrix-vector multiplication was written out in Eq.(13) [even though the code was correct], so this has been corrected in the equations and a new file has been re-uploaded, so as to avoid confusion. 
-Thanks are due to Dr.Sainadh Chamarthi for not just pointing out the mistakes, but also for gviing detailed explanation :)
+Thanks are due to Dr.Sainadh Chamarthi for not just pointing out the mistakes, but also for giving detailed explanation :)
